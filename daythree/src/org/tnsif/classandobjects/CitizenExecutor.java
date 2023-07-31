@@ -6,6 +6,7 @@ public class CitizenExecutor {
 		Citizen c=new Citizen();
 		
 		Citizen c1=new Citizen("Adult",123456789123L,"Female","Nashik");
+		System.out.println(c1);
 		
 
 	}
